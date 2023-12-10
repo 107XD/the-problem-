@@ -1,0 +1,16 @@
+<Window x:Class="Kursa_Darbs_WBF_ES_DVDZ1.timeMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MoveObjectApp" Height="350" Width="525">
+    <Grid>
+        <Canvas Name="canvas" Background="LightGray" MouseLeftButtonDown="Canvas_MouseLeftButtonDown">
+            <!-- Replace this object with a lettuce leaf image later -->
+            <Rectangle Name="movingRectangle" Width="50" Height="50" Fill="Red" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown" Canvas.Left="102" Canvas.Top="33" />
+        </Canvas>
+        <Button Content="Start" Click="StartButton_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10"/>
+        <TextBlock Name="timerTextBlock" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="100,0,0,10"/>
+        <!--button play again-->
+        <Button Content="Play Again" Click="PlayAgain_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="200,0,0,10"/>
+
+    </Grid>
+</Window>

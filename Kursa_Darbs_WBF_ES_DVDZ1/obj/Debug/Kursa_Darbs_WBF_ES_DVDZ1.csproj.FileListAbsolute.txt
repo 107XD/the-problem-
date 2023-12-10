@@ -1,0 +1,56 @@
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.csproj.AssemblyReference.cache
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\MainWindow.g.cs
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\App.g.cs
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1_MarkupCompile.cache
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\bin\Debug\Kursa_Darbs_WBF_ES_DVDZ1.exe.config
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\bin\Debug\Kursa_Darbs_WBF_ES_DVDZ1.exe
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\bin\Debug\Kursa_Darbs_WBF_ES_DVDZ1.pdb
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\MainWindow.baml
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.g.resources
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.Properties.Resources.resources
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.csproj.GenerateResource.cache
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.csproj.CoreCompileInputs.cache
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.exe
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.pdb
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\IngredientsWindow.baml
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\IngredientsWindow.g.cs
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Time.baml
+C:\Users\nazis\Desktop\New folder\Kursa_Darbs_WBF_ES_DVDZ1\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Time.g.cs
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\bin\Debug\Kursa_Darbs_WBF_ES_DVDZ1.exe.config
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\bin\Debug\Kursa_Darbs_WBF_ES_DVDZ1.exe
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\bin\Debug\Kursa_Darbs_WBF_ES_DVDZ1.pdb
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.csproj.AssemblyReference.cache
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\MainWindow.baml
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\IngredientsWindow.baml
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Time.baml
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\MainWindow.g.cs
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\IngredientsWindow.g.cs
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Time.g.cs
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\App.g.cs
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1_MarkupCompile.cache
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.g.resources
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.Properties.Resources.resources
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.csproj.GenerateResource.cache
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.csproj.CoreCompileInputs.cache
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.exe
+C:\Users\madar\Desktop\kursa\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.pdb
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\bin\Debug\Kursa_Darbs_WBF_ES_DVDZ1.exe.config
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\bin\Debug\Kursa_Darbs_WBF_ES_DVDZ1.exe
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\bin\Debug\Kursa_Darbs_WBF_ES_DVDZ1.pdb
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.csproj.AssemblyReference.cache
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\MainWindow.baml
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\IngredientsWindow.baml
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Time.baml
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\MainWindow.g.cs
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\IngredientsWindow.g.cs
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Time.g.cs
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\App.g.cs
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1_MarkupCompile.cache
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.g.resources
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.Properties.Resources.resources
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.csproj.GenerateResource.cache
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.csproj.CoreCompileInputs.cache
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.exe
+C:\Users\nazis\Desktop\New folder (4)\Kursa_Darbs_WBF_ES_DVDZ1\obj\Debug\Kursa_Darbs_WBF_ES_DVDZ1.pdb
